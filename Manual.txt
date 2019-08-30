@@ -1,0 +1,3 @@
+Hello, hope you are having a good day.
+Read the proposal first, then run the script. You need xammp installed on your PC.
+Keep rocking!
