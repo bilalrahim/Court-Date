@@ -1,6 +1,5 @@
 <h1>Introduction:</h1> <br>
 <p>The database system would help a defendant/lawyer quickly find when and where he/she needs to appear in court for criminal and infraction cases. They can get to know their date and time of appearance from anyplace, they won’t have to deal with the hassle of going to court to only find out their date of appearance.<p>
-<br>
 <h1>Objective:</h1>
 <p>•	Would save plenty of time.
 •	Save travel cost.</p>
