@@ -3,7 +3,5 @@
 <h1>Objective:</h1>
 <p>•	Would save plenty of time. <br>
 •	Save travel cost.</p>
-<h1>Deliverable:</h1>
-<p>At the end of the project a deployable database system would be shown, which would be able to tell you your date and location of your court appearance.</p>
 <h1>Scope:</h1> 
 <p>Everyday thousands of people have to cancel out their important meetings or leave work to go to court to only find out their date of appearance. With such a databases system they won’t have to cancel any meeting or leave their work.</p>
